@@ -1,6 +1,6 @@
 # Your Project Name
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/you/your-project-name/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexjxela/your-project-name/main)
 
 My project with Jupyter Notebook
 
